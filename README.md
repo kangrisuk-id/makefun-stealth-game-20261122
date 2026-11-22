@@ -4,7 +4,18 @@
 [![rank](https://make.fun/badge/best-stealth-game-20261121-1759/kangrisuk-id/makefun-stealth-game-20261122/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 [![reward](https://make.fun/badge/best-stealth-game-20261121-1759/kangrisuk-id/makefun-stealth-game-20261122/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
+![Moonvault title screen](screenshots/1-cover.jpg)
+
+*Tonight, the Moon Orchid blooms — and tonight, it disappears.*
+
 A top-down stealth game set in a moonlit glasshouse museum. Tonight the Moon Orchid blooms behind glass — and tonight it disappears. Slip past lantern guards whose vision cones are blocked by hedges, display cases, crates and walls; lift the brass keycard; steal the orchid; and melt out through the glowing exit door. Get spotted and the detection meter fills — fill it, and the alarm ends your night. Sprint and you make noise that draws guards to investigate; crouch behind cover and you become a shadow.
+
+## Inside the conservatory
+
+|  |  |
+|---|---|
+| ![Sneaking past patrols in the Orchid Hall](screenshots/2-play.jpg)<br/>**Low behind the hedge** — crouched in the Orchid Hall, keycard in pocket, while three lantern cones sweep past. | ![A guard spots the player](screenshots/3-alert.jpg)<br/>**Spotted!** — one step too bold in the Fern Gallery: the cone flares red, the eye fills, and the alarm is a heartbeat away. |
+| ![The win screen](screenshots/4-end.jpg)<br/>**The clean getaway** — orchid stolen, guards none the wiser: final score, total time and ghost bonuses on the win screen. | ![Moonvault title screen](screenshots/1-cover.jpg)<br/>**Where the night begins** — the title screen, with the conservatory alive behind it and the whole heist in one line: be a shadow. |
 
 ## How to play
 
@@ -15,6 +26,14 @@ A top-down stealth game set in a moonlit glasshouse museum. Tonight the Moon Orc
 - **Enter / mouse** — menu buttons
 
 Each level: grab the **brass keycard**, steal the **Moon Orchid** from its case, then reach the glowing **EXIT**. Optional moon gems raise your score, a clean unseen escape earns a ghost bonus, and the clock is always running.
+
+## The three wings
+
+| Level | Guards | What changes |
+|---|---|---|
+| **1 — The Fern Gallery** | 2 | The gentle wing: wide fern beds and crates to learn behind, long look-around pauses (up to 1.6 s), 3 moon gems. Lift the keycard, cross the gallery, take the orchid. |
+| **2 — The Orchid Hall** | 3 | The orchid sits in the middle of the hall under a dedicated patrol, and the keycard waits in the far corner — you must take it first. Shorter pauses, a third guard sweeping the lower corridor, 4 gems. |
+| **3 — The Vault of Petals** | 4 | The vault proper: a maze of partitions, the shortest pauses (as little as 0.8 s), a guard on nearly every route, and the exit at the far end from where you slip in. Every lantern is watched — be a shadow. |
 
 ## Features
 
